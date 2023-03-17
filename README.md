@@ -7,4 +7,4 @@
 •	Propriedades CSS<br><br>
 
 <h1>O que eu aprendi:</h1>
-  Nesse projeto eu aprendi à inserir o container com cantos arredondados e inserir os formulários com inputs tipo: text, password e submit
+  Nesse projeto eu aprendi à inserir o container com cantos arredondados e inserir os formulários com inputs tipo: text, password e submit; como também a inserção de imagem centralizada no container.
